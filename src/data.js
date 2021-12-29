@@ -39,3 +39,46 @@ export const categories = [
         title: "LIGHT JACKETS"
     },
 ];
+
+export const popularProducts = [
+    {
+        id: 1,
+        img: "https://pngimg.com/uploads/tshirt/tshirt_PNG5450.png",
+        
+    },
+    {
+        id: 2,
+        img: "https://i.pinimg.com/originals/38/b3/03/38b303390c08f2cb7278fd6d37788c18.jpg",
+        
+    },
+    {
+        id: 3,
+        img: "https://5.imimg.com/data5/WN/MP/MY-42804223/stylish-check-shirt-500x500.jpg",
+        
+    },
+    {
+        id: 4,
+        img: "https://www.pngkey.com/png/full/794-7941393_cut-out-back-checked-mini-dress-day-dress.png",
+        
+    },
+    {
+        id: 5,
+        img: "https://cf.shopee.ph/file/b5f1b083276ff51c4f2ddc43b38b4cf3",
+        
+    },
+    {
+        id: 6,
+        img: "https://purepng.com/public/uploads/thumbnail//purepng.com-nuzhskaya-beysbolka-mercedes-benz-cap-greycapfittedsportsnuzhskayabeysbolkacap-greymercedes-benz-cap-14215262783184wucq.png",
+        
+    },
+    {
+        id: 7,
+        img: "https://images.squarespace-cdn.com/content/v1/51c322cfe4b032aad705a0fc/1571419990014-PR3H35RDPOQQQ8TP45GM/YOUTH_HOODIE_0005_CARDINAL.png?format=1000w",
+        
+    },
+    {
+        id: 8,
+        img: "https://www.pngitem.com/pimgs/m/72-721370_coat-transparent-background-womens-coat-png-png-download.png",
+        
+    },
+];
